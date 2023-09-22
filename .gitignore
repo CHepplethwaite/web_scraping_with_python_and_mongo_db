@@ -1,0 +1,58 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+*.tar.gz
+*.tar.bz2
+*.tgz
+*.zip
+*.ipynb_checkpoints/
+
+# Local environment configuration
+.env
+
+# IDE and text editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.user
+*.suo
+*.cache/
+*.log
+*.DS_Store
+*.bak
+*.sublime-project
+*.sublime-workspace
+
+# Dependency directories
+venv/
+env/
+env2/
+env3/
+*.venv/
+*.env/
+.venv
+/.venv/
+/.env/
+
+# Optional: Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Optional: virtualenv
+.python-version
+
+# Optional: pipenv
+Pipfile
+Pipfile.lock
+
+# Optional: poetry
+poetry.lock
