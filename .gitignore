@@ -55,4 +55,15 @@ Pipfile
 Pipfile.lock
 
 # Optional: poetry
-poetry.lock
+poetry.lockA standard Python .gitignore file typically includes patterns for ignoring files and directories that are commonly generated or should not be version-controlled in a Python project. Here is an example of what you might find in a standard Python .gitignore file:
+
+gitignore
+
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+dist/
+build/
+
