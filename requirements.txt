@@ -4,6 +4,7 @@ cffi==1.15.1
 constantly==15.1.0
 cryptography==41.0.4
 cssselect==1.2.0
+dnspython==2.4.2
 hyperlink==21.0.0
 idna==3.4
 incremental==22.10.0
@@ -11,6 +12,7 @@ lxml==4.9.3
 pyasn1==0.5.0
 pyasn1-modules==0.3.0
 pycparser==2.21
+pymongo==4.5.0
 pyOpenSSL==23.2.0
 queuelib==1.6.2
 Scrapy==1.0.3
